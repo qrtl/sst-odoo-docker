@@ -2,3 +2,5 @@
 openpyxl
 # OCA l10n_jp_partner_zip_address module
 jaconv
+# OCA attachment_s3 module
+boto3
